@@ -1,0 +1,14 @@
+{
+    "student": [
+        {"id": "e001", "name": "Pisoth"},
+        {"id": "e002", "name": "Sothea"},
+        {"id": "e003", "name": "Dara"},
+        {"id": "e004", "name": "Rath"},
+        {"id": "e005", "name": "Chenda"},
+        {"id": "e006", "name": "Bopha"},
+        {"id": "e007", "name": "Vireak"},
+        {"id": "e008", "name": "Sophea"},
+        {"id": "e009", "name": "Malis"},
+        {"id": "e010", "name": "Kosal"}
+    ]
+}
